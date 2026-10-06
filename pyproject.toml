@@ -1,0 +1,12 @@
+[project]
+name = "NoSE-NL.github.io"
+version = "0.1.0"
+description = "NoSE project website"
+readme = "README.md"
+authors = [
+    { name = "Matthew Humphreys", email = "mvdh7@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "zensical>=0.0.68",
+]

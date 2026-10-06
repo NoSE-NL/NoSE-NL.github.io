@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.039001mm"
+   height="15.404mm"
+   viewBox="0 0 39.039001 15.404"
+   version="1.1"
+   id="svg373"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="NoSE-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview375"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.3238967"
+     inkscape:cx="-11.618417"
+     inkscape:cy="33.994626"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs370" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.041666,-115.17337)"
+       style="fill:#1878cb;fill-opacity:1">
+      <polygon
+         class="st0"
+         points="262.24,461.21 171.37,460.64 171.37,466.95 262.24,465.69 260.5,470.49 272.43,463.45 260.5,456.41 "
+         id="polygon12"
+         style="fill:#1878cb;fill-opacity:1" />
+      <path
+         class="st0"
+         d="m 166.28,461 c 0,6.51 0.12,11.59 0.62,17.17 l -0.12,0.06 c -1.98,-4.28 -4.4,-8.68 -7.5,-13.58 L 145.89,443.51 H 140 v 41.79 h 5.08 v -17.86 c 0,-6.94 -0.12,-11.96 -0.43,-17.23 l 0.19,-0.06 c 2.11,4.53 4.9,9.3 7.81,13.95 l 13.27,21.2 h 5.46 V 443.51 H 166.3 V 461 Z"
+         id="path12"
+         style="fill:#1878cb;fill-opacity:1" />
+      <path
+         class="st0"
+         d="m 227.35,461.65 c -5.77,-2.23 -8.31,-4.15 -8.31,-8.06 0,-2.85 2.17,-6.26 7.87,-6.26 3.78,0 6.57,1.24 7.94,1.98 l 1.49,-4.4 c -1.86,-1.05 -4.96,-2.05 -9.24,-2.05 -8.12,0 -13.52,4.84 -13.52,11.35 0,5.89 4.22,9.42 11.04,11.84 5.64,2.17 7.87,4.4 7.87,8.31 0,4.22 -3.22,7.13 -8.74,7.13 -3.72,0 -7.25,-1.24 -9.67,-2.73 l -1.36,4.53 c 2.23,1.49 6.63,2.67 10.66,2.67 9.86,0 14.63,-5.58 14.63,-12.03 0.01,-6.14 -3.59,-9.55 -10.66,-12.28 z"
+         id="path13"
+         style="fill:#1878cb;fill-opacity:1" />
+      <polygon
+         class="st0"
+         points="268.89,480.78 250.79,480.78 250.79,465.71 267.03,465.71 267.03,461.25 250.79,461.25 250.79,448.04 267.96,448.04 267.96,443.52 245.39,443.52 245.39,485.3 268.89,485.3 "
+         id="polygon13"
+         style="fill:#1878cb;fill-opacity:1" />
+      <path
+         class="st0"
+         d="m 193.71,474 c -0.02,0 -0.04,0 -0.06,0 -4.77,0 -8.29,-3.98 -8.98,-9.53 -0.08,-0.65 -0.13,-1.32 -0.13,-2 0,-5.28 2.4,-10.77 7.88,-11.55 0.42,-0.06 0.85,-0.1 1.3,-0.1 v -4.09 c -8.22,0.09 -14.69,5.96 -14.69,15.93 0,0.7 0.04,1.37 0.11,2.03 0.8,7.98 6.32,13 13.44,13.37 0.28,0.01 0.55,0.04 0.84,0.04 0.1,0 0.21,-0.01 0.31,-0.01 V 474 Z"
+         id="path14"
+         style="fill:#1878cb;fill-opacity:1" />
+      <path
+         class="st0"
+         d="m 195.01,450.9 c -0.37,-0.02 -0.74,-0.05 -1.11,-0.05 -0.08,0 -0.16,0.01 -0.25,0.01 v 4.09 c 0.04,0 0.08,-0.01 0.12,-0.01 5.6,0 8.25,4.87 8.85,9.48 0.09,0.7 0.14,1.39 0.14,2.05 0,6.18 -3.27,10.79 -7.81,11.54 -0.42,0.07 -0.86,0.12 -1.3,0.12 v 4.08 c 7.18,-0.11 14.69,-4.95 14.69,-15.92 0,-0.68 -0.04,-1.34 -0.11,-1.99 -0.74,-7.69 -5.84,-12.92 -13.22,-13.4 z"
+         id="path15"
+         style="fill:#1878cb;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
