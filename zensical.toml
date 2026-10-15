@@ -80,7 +80,7 @@ accent = "blue"
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
+toggle.name = "Switch to light mode"
 primary = "light blue"
 accent = "light blue"
 
