@@ -16,6 +16,10 @@ icon: lucide/book-text
 
 !!! abstract "Enge et al. (2025) *Front. Mar. Sci.* [[pdf]](pdfs/enge2025.pdf)"
 
-    Enge, A., Pietrzak, J. D., and van Prooijen, B. C.:  **The variability of wind-driven currents in the Norwegian Trench**,  *Frontiers in Marine Science,* 12:1600994, [doi:10.3389/fmars.2025.1600994](https://doi.org/10.3389/fmars.2025.1600994), 2025.
+    Enge, A., Pietrzak, J. D., and van Prooijen, B. C.:  **The variability of wind-driven currents in the Norwegian Trench**,  *Frontiers in Marine Science*, 12:1600994, [doi:10.3389/fmars.2025.1600994](https://doi.org/10.3389/fmars.2025.1600994), 2025.
 
-<!-- ## Preprints -->
+## Preprints
+
+!!! abstract "Brandon et al. (2026) *Earth Syst. Sci. Data Discuss.* [[pdf]](pdfs/brandon2026.pdf)"
+
+    Brandon, M., Humphreys, M. P., Koek, A. C., Ádler, M. A., Bakker, D. C. E., Becker, M., Bittig, H. C., Bozec, Y., Chierici, M., Darelius, E., Findlay, H. S., Gkritzalis, T., Ivimey-Cook, R., Jones, E. M., Knockaert, M., Lange, N., Leseurre, C., Lødemel, H. H., Macovei, V. A., McGovern, E., McGrath, T., Metzl, N., O'Donnell, G., O’Sullivan, E. M., Ourradi, Y., Petton, S., Salvanes, A. G. V., Skjelvan, I., and Voynova, Y. G.: **The marine carbonate system in the northwest European shelf seas: a quality-controlled data product (NWESDAP)**, *Earth System Science Data Discussions* [preprint], [doi:10.5194/essd-2026-872](https://doi.org/10.5194/essd-2026-872), in review, 2026.
